@@ -1,5 +1,5 @@
 # simplexfolio
-Hi! This is my first repo. I created a portfolio webpage so you do not have to spend a lot of time building from scratch. 
+Hi! This is my first repo. I created a simple portfolio page so you do not have to spend a lot of time building from scratch. 
 
 Basically it looks like this:
 
