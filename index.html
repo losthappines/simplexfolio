@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Page</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="translucent-header">
+        <nav class="menu">
+            <button id="menu-toggle" class="menu-toggle" aria-label="Toggle menu">&#9776;</button>
+            <ul class="menu-list" id="menu-list">
+                <li><a href="#main">Main</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <button id="theme-btn" class="theme-btn" aria-label="Toggle dark mode">
+                <span id="theme-icon">🌙</span>
+            </button>
+            <button id="lang-btn" class="lang-btn" aria-label="Change language">🌐</button>
+        </nav>
+    </header>
+
+    <!-- Welcome Section -->
+    <div class="welcome-wrapper">
+        <div class="translucent-welcome">
+            <h1 id="welcome-text">Welcome! Glad to see you again.</h1>
+        </div>
+    </div>
+
+    <main>
+        <section id="about" class="translucent-section">
+            <h2 id="about-title">About Me</h2>
+            <p id="about-desc">I'm 17 years old junior developer. Currently a high school student.</p>
+        </section>
+
+        <section id="projects" class="translucent-section">
+            <h2 id="projects-title">Projects</h2>
+            <p id="projects-desc">Here are some of my recent projects and works.</p>
+        </section>
+
+        <section id="contact" class="translucent-section">
+            <h2 id="contact-title">Contact</h2>
+            <p id="contact-desc">Reach me at youremailaddress@example.com</p>
+        </section>
+    </main>
+
+    <footer>
+        <p id="footer-text" class="translucent-footer">
+            &copy; 2025 Placeholder. No rights reserved.
+        </p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
