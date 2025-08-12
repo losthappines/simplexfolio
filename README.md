@@ -1,4 +1,4 @@
-<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b47ec2b-fcb6-4651-894a-eb054e7d608e" /># simplexfolio
+# simplexfolio
 Hi! This is my first repo. I created a portfolio webpage so you do not have to spend a lot of time building from scratch. 
 
 Basically it looks like this:
